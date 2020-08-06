@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm João Pinto!
 
+## I'm currently a Informatics and Computing Engineering Student @FEUP 
 <!--
 **joaorenatopinto/joaorenatopinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
