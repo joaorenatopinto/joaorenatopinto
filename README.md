@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="left" alt="Joao Pinto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joaorenatopinto&show_icons=true&hide_border=true" />
+<img align="left" alt="Joao Pinto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joaorenatopinto&show_icons=true&hide_border=true&theme=dark" />
